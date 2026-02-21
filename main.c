@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello from Feature 1\n");
+    printf("Merged Feature 1 and Feature 2!\n");
     return 0;
 }
